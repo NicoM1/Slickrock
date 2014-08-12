@@ -1,0 +1,14 @@
+{
+	"name": "nico.slickrock",
+	"title": "Slickrock",
+	"description": "Dark, flat, minimal theme. Meant to sit flat with the Brackets UI.",
+	"homepage": "https://github.com/NicoM1/Slickrock",
+	"version": "0.0.1",
+	"author": "Nico May nico.may99@gmail.com",
+	"license": "MIT",
+	"theme": {
+		"file": "theme.less",
+		"dark": true
+	},
+	"keywords": ["theme", "dark", "flat"]
+}
